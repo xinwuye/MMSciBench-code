@@ -1,5 +1,11 @@
 # MMSciBench
 
+<p align="center">
+   📑&nbsp; <a href="https://arxiv.org/abs/2503.01891" target="_blank">Paper</a>
+   | 📊&nbsp; <a href="https://huggingface.co/datasets/XinwuYe/MMSciBench" target="_blank">MMSciBench</a>
+</p>
+
+
 ![License](https://img.shields.io/github/license/xinwuye/MMSciBench-code)
 ![Stars](https://img.shields.io/github/stars/xinwuye/MMSciBench-code?style=social)
 ![Issues](https://img.shields.io/github/issues/xinwuye/MMSciBench-code)
